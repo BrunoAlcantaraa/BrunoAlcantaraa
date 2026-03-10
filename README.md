@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Bruno Alcantara
 
-<!--
-**BrunoAlcantaraa/BrunoAlcantaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação**
 
-Here are some ideas to get you started:
+Me chamo Bruno Eduardo Santos Alcantara, tenho 19 anos e sou do oeste do Paraná (Santa Helena).  
+Atualmente curso Ciência da Computação na UTFPR e estou focado no desenvolvimento **backend utilizando Java**, buscando evoluir na construção de sistemas eficientes e bem estruturados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Interessado em desenvolvimento backend, frontend e Machine Learning.
+
+---
+
+### 🚀 Linguagens
+
+<img src="https://skillicons.dev/icons?i=java,c"/>
+
+<br/>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode"/>
+
+<br/>
+
+### 🌱 Atualmente estudando
+
+- Backend Java
+
+<br/>
+
+---
+
+### 📫 Contatos
+
+<div> 
+  <a href="mailto:alcantarasantosbruno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-alcantara-70b78a331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
