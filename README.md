@@ -23,7 +23,7 @@ Posteriormente, aprofundei conhecimentos em C através das disciplinas de Algori
 - **C** com VS Code
 - **Git & GitHub** para controle de versão e colaboração
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,mysql,git,github"/>
 
 ---
 
